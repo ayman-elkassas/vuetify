@@ -30,7 +30,7 @@
     "marked": "^0.7.0",
     "memory-fs": "^0.4.1",
     "moment": "^2.24.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.2.10",
     "ouch": "^2.0.0",
     "pluralize": "^8.0.0",
     "route-cache": "^0.4.4",
