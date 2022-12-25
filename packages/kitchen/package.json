@@ -10,7 +10,7 @@
     "cypress:visual": "server-test dev http-get://localhost:8081/ cypress:run"
   },
   "dependencies": {
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^9.0.0",
     "vue-router": "^3.0.7",
     "vuetify": "^2.2.19"
   },
